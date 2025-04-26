@@ -77,4 +77,4 @@ This project is open-source and available under the MIT License.
 
 Made with ❤️ by Rahul Jignesh Ganatra
 
-Check out our demo video: [RAG-MODEL Demo](https://drive.google.com/file/d/1Bv2-ueE--G32h9UDbozPDFAlLbaeYVYW/view?usp=sharing)
+Check out our demo video: [RAG-MODEL Demo](https://drive.google.com/file/d/12ZVjraYD_tRaoflJDZlx0Db1dqnmbi-e/view?usp=drive_link)
