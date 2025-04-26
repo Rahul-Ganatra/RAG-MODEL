@@ -1,2 +1,2 @@
-# RAG MODEL
+# RAG
  
